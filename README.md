@@ -1,4 +1,4 @@
-### Hey, I'm Aglaya Sukhobskaya!
+### Hey, Welcome to my profile!
 
 I'm Java Developer from St. Petersburg, Russia. Currently living in Bali, Indonesia.
 
