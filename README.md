@@ -1,5 +1,11 @@
 ### Hey, I'm Aglaya Sukhobskaya!
 
+I'm Java Developer from St. Petersburg, Russia. Currently living in Bali, Indonesia.
+
+### Some languages, standards, technologies and platforms that I've used
+Java, Spring Framework (MVC, Data, Security, REST), Spring Boot, Hibernate, OOP, SOLID, Git, Maven, Tomcat, GitHub, SQL Server, PostgreSQL, MySQL, MySQL Workbench, Postman, Swagger, Scrum, Agile, Kanban, Jira, Linux, Windows, REST Api, RabbitMQ, Lambda, Stream ApI, JUnit, IntelliJ IDEA, JSON, JDBC, Servlets, JSP, Java EE
+
+
 <!--
 **AglayaSukhobskaya/AglayaSukhobskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
